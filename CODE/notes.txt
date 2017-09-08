@@ -1,0 +1,4 @@
+npm install -g browserify
+npm install --save babelify babel-preset-react
+babelify 7.0 Check
+npm install --save-dev babel-preset-es2015
